@@ -1,0 +1,8 @@
+*.csv
+*.pkl
+*.vw
+*.cache
+*.zip
+capstone_user_identification/
+faces/
+kaggle_medium/

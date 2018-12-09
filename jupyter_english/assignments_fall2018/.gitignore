@@ -1,0 +1,7 @@
+*.csv
+*.npz
+*-Copy1.ipynb
+*.pkl
+lda50*
+lda75*
+*.dot
